@@ -1,0 +1,27 @@
+{
+  "forme_juridique": "SARL AU",
+  "capital_social": 50000,
+  "siege_social": "45 avenue Mohammed V, Rabat (bail commercial)",
+  "statuts_fournis": true,
+  "certificat_negatif_fourni": true,
+  "certificat_negatif_date_delivrance": "2026-07-15",
+  "attestation_blocage_bancaire_fournie": false,
+  "taxe_professionnelle_declaree": true,
+  "emploie_salaries": false,
+  "affiliation_cnss_fournie": false,
+  "identites": [
+    {
+      "nom": "Bennani",
+      "prenom": "Omar",
+      "numero_cin": "AB111111",
+      "date_naissance": "1985-02-01"
+    },
+    {
+      "nom": "Bennani",
+      "prenom": "Salma",
+      "numero_cin": "AB222222",
+      "date_naissance": "1987-09-23"
+    }
+  ],
+  "pieces": []
+}

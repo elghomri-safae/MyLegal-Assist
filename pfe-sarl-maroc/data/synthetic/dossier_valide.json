@@ -1,0 +1,21 @@
+{
+  "forme_juridique": "SARL AU",
+  "capital_social": 50000,
+  "siege_social": "12 rue des Fleurs, Casablanca (contrat de domiciliation)",
+  "statuts_fournis": true,
+  "certificat_negatif_fourni": true,
+  "certificat_negatif_date_delivrance": "2026-07-15",
+  "attestation_blocage_bancaire_fournie": false,
+  "taxe_professionnelle_declaree": true,
+  "emploie_salaries": false,
+  "affiliation_cnss_fournie": false,
+  "identites": [
+    {
+      "nom": "Alaoui",
+      "prenom": "Yasmine",
+      "numero_cin": "BE123456",
+      "date_naissance": "1990-05-14"
+    }
+  ],
+  "pieces": []
+}
