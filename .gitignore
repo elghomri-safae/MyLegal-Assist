@@ -1,0 +1,36 @@
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.json
+.streamlit/secrets.toml
+
+# Base de données
+*.db
+*.sqlite
+*.sql
+dumps/
+
+# ChromaDB
+chroma_db/
+data/chroma/
+
+# Corpus (si confidentiel)
+data/chunks/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
