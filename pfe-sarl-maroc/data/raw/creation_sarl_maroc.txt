@@ -1,0 +1,127 @@
+# Documentation pratique — Création de SARL / SARL AU au Maroc
+### Source : contenu de vulgarisation juridique (niveau 3 — documentation pratique secondaire)
+*Nettoyé du branding commercial, des CTA et des mentions d'entreprise. À citer comme « guide pratique », jamais comme source légale primaire.*
+
+---
+
+## 1. Le certificat négatif
+
+### Définition
+Document délivré par l'**OMPIC** (Office Marocain de la Propriété Industrielle et Commerciale) attestant qu'une dénomination commerciale, une enseigne ou un sigle est disponible, c'est-à-dire non déjà utilisé par une autre entreprise au Maroc. Il porte sur la dénomination sociale complète, le sigle et l'enseigne, et concerne toutes les formes de sociétés commerciales (SARL, SARL AU, SA, SAS, succursale de société étrangère).
+
+### Pourquoi il est obligatoire
+- **Rôle juridique** : garantit l'unicité des dénominations commerciales, évite confusion et litiges.
+- **Rôle pratique** : condition préalable à l'immatriculation au registre de commerce — sans lui, aucune formalité suivante n'est possible (ni statuts finalisés, ni immatriculation).
+
+### Procédure (en ligne, plateforme OMPIC)
+1. **Préparer 2-3 variantes de nom**, classées par ordre de préférence.
+2. **Soumettre la demande** sur le service en ligne de l'OMPIC : identité du demandeur, dénominations souhaitées, forme juridique envisagée. Vérification automatique de disponibilité.
+3. **Régler les frais et télécharger le certificat**, qui comporte un numéro unique réutilisé dans les statuts et le dossier d'immatriculation.
+
+### Coût et validité
+
+| Élément | Détail |
+|---|---|
+| Coût | Environ 230 DH (frais OMPIC) |
+| Canal | En ligne (plateforme OMPIC) ou au guichet |
+| Délai de délivrance | Dans les 48h |
+| Validité pour immatriculer | 3 mois |
+
+⚠️ Si l'immatriculation n'est pas finalisée dans le délai de validité, le certificat devient caduc et le nom redevient disponible pour d'autres. (Les délais évoluant, vérifier la durée exacte indiquée sur le certificat.)
+
+### Motifs de refus fréquents
+- Dénomination déjà utilisée par une autre société.
+- Nom trop proche d'une dénomination existante (risque de confusion).
+- Présence de termes réglementés ou protégés (marques déposées, appellations officielles, termes réservés à certaines activités).
+
+→ En cas de refus, il suffit de proposer une variante disponible (d'où l'intérêt de préparer plusieurs noms dès le départ).
+
+### Cas où le certificat négatif n'est PAS requis
+- **Auto-entrepreneur** : exerce sous son nom propre, s'inscrit au RNAE (Registre National de l'Auto-Entrepreneur), sans dénomination sociale distincte → dans la grande majorité des cas, pas de certificat négatif nécessaire.
+- **Commerçant personne physique** exerçant sous son nom patronymique, sans enseigne particulière.
+- Dès qu'un nom commercial distinct ou une société est créée, le certificat redevient obligatoire.
+
+---
+
+## 2. Étapes de création d'une SARL / SARL AU au Maroc
+
+1. **Choisir la forme juridique** (SARL, SARL AU, SAS, SASU selon le projet et le nombre d'associés).
+2. **Réserver le nom** — obtenir le certificat négatif auprès de l'OMPIC.
+3. **Choisir l'adresse du siège social** — contrat de domiciliation ou bail commercial (obligatoire avant rédaction définitive des statuts ; détermine le tribunal de commerce et le centre des impôts compétents).
+4. **Rédiger et signer les statuts** — associés, capital social, gérance, objet social, répartition des parts.
+5. **Bloquer le capital social** (si > 100 000 DH) — dépôt sur compte bancaire bloqué, attestation de blocage délivrée par la banque ; levée après immatriculation. En dessous de ce seuil, aucun blocage n'est exigé.
+6. **Enregistrer et déposer les actes** — statuts enregistrés auprès de l'administration fiscale (DGI), puis déposés au greffe du tribunal de commerce.
+7. **Immatriculer la société au Registre de Commerce (RC)** — obtention du numéro RC, de l'Identifiant Fiscal (IF), de l'ICE et de la Taxe Professionnelle (TP). C'est cette étape qui donne naissance à la personnalité morale.
+8. **Affiliation à la CNSS** (si la société emploie des salariés).
+9. **Publier les annonces légales** — Journal d'Annonces Légales (JAL) + Bulletin Officiel, ce qui rend la création opposable aux tiers.
+
+### SARL vs SARL AU
+
+| Critère | SARL AU | SARL |
+|---|---|---|
+| Nombre d'associés | 1 (associé unique) | 2 à 50 |
+| Personnalité morale | Oui, distincte de l'associé | Oui |
+| Responsabilité | Limitée aux apports | Limitée aux apports de chacun |
+| Gérance | L'associé unique peut être son propre gérant | Gérant désigné parmi ou hors associés |
+| Évolution | Peut se transformer en SARL en cas d'entrée de nouveaux associés | — |
+| Capital minimum | Aucun (libre depuis la réforme de 2006) | Aucun |
+
+---
+
+## 3. Comparatif Auto-Entrepreneur vs SARL AU
+
+| Critère | Auto-Entrepreneur | SARL AU |
+|---|---|---|
+| Nature juridique | Personne physique | Société commerciale (personnalité morale propre) |
+| Responsabilité | Illimitée (patrimoine personnel exposé) | Limitée aux apports |
+| Plafond de chiffre d'affaires | 500 000 MAD/an (commerce) / 200 000 MAD/an (services) | Aucun |
+| Fiscalité | Impôt libératoire sur le CA — 1 % commerce / 2 % services | Impôt sur les sociétés (IS), taux progressif sur le bénéfice net |
+| Comptabilité | Simplifiée, pas de bilan annuel obligatoire | Rigoureuse, bilan annuel obligatoire |
+| Déclaration | CA mensuel ou trimestriel en ligne (même à 0) | Déclarations fiscales régulières (IS, TVA le cas échéant) |
+| Registre / immatriculation | RNAE (ae.gov.ma) | Registre de Commerce |
+| Capital social | Non requis | Libre, sans minimum imposé |
+| Couverture sociale | CNSS travailleur indépendant | CNSS (gérant + salariés éventuels) |
+| Image / crédibilité | Perçue comme moins structurée par certains partenaires/banques | Forte crédibilité (banques, appels d'offres B2B) |
+| Embauche de salariés | Non | Oui |
+
+**Dépassement de plafond (auto-entrepreneur)** : si les seuils de CA sont dépassés deux années consécutives, perte automatique du régime → bascule vers le régime de droit commun (généralement transformation en société).
+
+**Passage auto-entrepreneur → SARL AU** : radiation du statut auprès du RNAE (ae.gov.ma) après régularisation des déclarations en cours, puis création de la SARL AU selon la procédure classique (certificat négatif, statuts, capital, immatriculation).
+
+---
+
+## 4. Récapitulatif global — étapes, documents obtenus, délais, coûts
+
+| Étape | Document / résultat obtenu |
+|---|---|
+| 1. Forme juridique | Choix SARL / SARL AU / auto-entrepreneur |
+| 2. Certificat négatif | Dénomination réservée (OMPIC) — ~230 DH, délivré sous 48h, valable 3 mois |
+| 3. Statuts + capital | Statuts signés, capital social fixé (blocage bancaire si > 100 000 DH) |
+| 4. Domiciliation / bail | Siège social justifié |
+| 5. Immatriculation | Numéro RC, Identifiant Fiscal (IF), ICE, Taxe Professionnelle |
+| 6. Annonces légales | Publication (Journal d'Annonces Légales + Bulletin Officiel) |
+
+**Délai global indicatif** : de quelques jours à environ deux semaines selon la forme juridique et la réactivité des administrations (chiffre donné par une source de vulgarisation — à vérifier auprès de sources officielles pour une valeur garantie).
+
+**Documents généralement requis pour le dossier** :
+- Copie CIN (ou passeport pour un étranger/non-résident) de chaque associé.
+- Justificatif de domicile personnel récent.
+- Justificatif du siège social (contrat de bail ou contrat de domiciliation).
+- Choix du nom (+ liste de noms alternatifs pour le certificat négatif).
+- Description de l'activité envisagée.
+
+---
+
+## Note méthodologique
+
+Ce document synthétise des contenus de vulgarisation juridique à finalité commerciale (guides publiés par un prestataire d'accompagnement à la création d'entreprise). Il a été **débarrassé de tout élément promotionnel** (nom de marque, appels à l'action, témoignages, tarifs de service) pour n'en conserver que les éléments factuels vérifiables : définitions, procédures, montants officiels (frais OMPIC), délais légaux et tableaux comparatifs.
+
+**Statut dans la hiérarchie des sources :**
+
+| Niveau | Type de source | Autorité |
+|---|---|---|
+| 1 — Primaire | Loi 5-96 (SARL), Code de commerce | Texte de loi, autorité maximale |
+| 2 — Officielle | Sites institutionnels (OMPIC, DGI, ae.gov.ma) | Institution publique |
+| 3 — Pratique | Guides pratiques comme celui-ci | Vulgarisation ; à citer comme "documentation pratique secondaire", jamais comme source légale directe |
+
+Les montants (ex. 230 DH pour le certificat négatif) et délais indicatifs doivent être **recoupés avec la source officielle OMPIC** avant citation dans un rapport à valeur juridique.

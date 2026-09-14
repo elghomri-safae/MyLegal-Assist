@@ -1,0 +1,117 @@
+Impôts sur les sociétés
+Avertissement : Ce texte résume très brièvement les dispositions du Code Général des Impôts
+relatives à l'impôt sur les sociétés. Il ne saurait remplacer les lois et règlements en vigueur
+(disponibles sur les pages du portail DGI, rubrique « Législation et réglementation fiscales »).
+
+CHAMP D'APPLICATION
+
+Personnes imposables
+L'I.S. s'applique obligatoirement aux produits, bénéfices et revenus des :
+- sociétés quels que soient leur forme et leur objet (exclusion des sociétés de fait ne
+  comprenant que des personnes physiques et des sociétés immobilières dites transparentes et
+  des GIE) ;
+- établissements publics et autres personnes morales réalisant des opérations à caractère
+  lucratif ;
+- Fonds créés par voie législative ou par convention ;
+- centres de coordination de sociétés non résidentes.
+
+L'I.S. s'applique sur option irrévocable aux sociétés de personnes : sociétés en nom collectif,
+sociétés en commandite simple ne comprenant que des personnes physiques et les sociétés en
+participation.
+
+Territorialité
+Les sociétés, qu'elles aient ou non un siège au Maroc, sont imposables à raison de l'ensemble
+des produits, bénéfices et revenus :
+- se rapportant aux biens qu'elles possèdent, à l'activité qu'elles exercent et aux opérations
+  lucratives qu'elles réalisent au Maroc, même à titre occasionnel ;
+- dont le droit d'imposition est attribué au Maroc en vertu des conventions tendant à éviter la
+  double imposition en matière d'impôts sur le revenu.
+
+BASE IMPOSABLE
+Le résultat fiscal imposable est égal à l'excédent des produits d'exploitation, des profits et
+gains sur les charges d'exploitation, modifié le cas échéant, conformément à la législation
+fiscale en vigueur.
+Le déficit d'un exercice peut être reporté jusqu'au 4ème exercice suivant, à l'exception de la
+fraction du déficit correspondant à des amortissements d'éléments de l'actif qui peut être
+reportée indéfiniment.
+
+MODE DE PAIEMENT
+Le paiement de l'impôt se fait spontanément par 4 acomptes provisionnels dont chacun est égal à
+25% du montant de l'impôt dû au titre de l'exercice précédent.
+Lorsque le montant définitif de l'IS dû est supérieur aux acomptes versés, la régularisation est
+effectuée par le paiement spontané du reliquat par la société, en même temps que le versement
+du premier acompte échu.
+Dans le cas contraire, en cas d'excédent d'impôt, celui-ci est imputé d'office sur le premier
+acompte provisionnel échu et, le cas échéant, sur les autres acomptes restants. Le reliquat
+éventuel est restitué d'office, dans le délai d'un mois à compter de la date d'échéance du
+dernier acompte provisionnel.
+
+MINIMUM D'IMPOSITION
+Le montant de l'IS ne peut être inférieur à une cotisation minimale (CM) dont la base de calcul
+est constituée par le montant (hors taxe) des produits d'exploitation visés par la loi. Le
+montant de cette CM ne peut être inférieur à 3000 DH (LF 2014) et doit être effectué en un seul
+versement, avant l'expiration du 3ème mois suivant la date d'ouverture de l'exercice en cours.
+La cotisation minimale n'est pas due par les sociétés pendant les 36 premiers mois suivant la
+date du début de leur exploitation, à l'exception des sociétés concessionnaires de service
+public. Toutefois, cette exonération cesse d'être appliquée à l'expiration d'une période de 60
+mois qui suit la date de constitution des sociétés concernées.
+
+Taux de la cotisation minimale
+- 0,25% pour les opérations effectuées par les sociétés commerciales portant sur : les produits
+  pétroliers, le gaz, le beurre, l'huile, le sucre, la farine, l'eau, l'électricité.
+- 0,5% pour toutes les autres activités.
+
+TAUX D'IMPOSITION
+
+Taux normal
+Le taux de l'impôt sur les sociétés est fixé à :
+- 30% ;
+- 37% en ce qui concerne les établissements de crédit et organismes assimilés, Bank Al Maghrib,
+  la Caisse de dépôt et de gestion, les sociétés d'assurances et de réassurances.
+
+Taux spécifiques
+Les taux spécifiques de l'impôt sur les sociétés sont fixés à :
+- 8,75% pour : les entreprises qui exercent leurs activités dans les zones franches
+  d'exportation, durant les 20 exercices consécutifs suivant le cinquième exercice
+  d'exonération totale ; les sociétés de service ayant le statut « Casablanca Finance City »,
+  au-delà de la période de 5 exercices d'exonération.
+- 10% : sur option, pour les banques offshore durant les 15 premières années consécutives
+  suivant la date de l'obtention de l'agrément ; pour les sièges régionaux ou internationaux
+  ayant le statut « Casablanca Finance City », à compter du premier exercice d'octroi statut ;
+  pour les sociétés réalisant un bénéfice fiscal inférieur ou égal à trois cent mille (300 000)
+  dirhams.
+- 17,50% de façon permanente pour : les entreprises minières exportatrices, à compter de
+  l'exercice au cours duquel la première opération d'exportation a été réalisée (également les
+  entreprises minières qui vendent leurs produits à des entreprises qui les exportent après leur
+  valorisation) ; les entreprises ayant leur domicile fiscal ou leur siège social dans la
+  province de Tanger et exerçant une activité principale dans le ressort de cette province ;
+  après une période d'exonération de 5 ans, le taux réduit est appliqué de façon permanente pour
+  les entreprises exportatrices de produits ou de services (à l'exclusion des entreprises
+  exportatrices des métaux de récupération), les entreprises vendant à d'autres entreprises
+  installées dans des plates-formes d'exportation des produits finis destinés à l'export, les
+  entreprises hôtelières et les sociétés de gestion des résidences immobilières de promotion
+  touristique, les sociétés de services ayant le statut « Casablanca Finance City ».
+- 17,50% de façon temporaire durant les 5 premiers exercices pour : les entreprises exerçant des
+  activités dans l'une des préfectures ou provinces fixées par décret ; les entreprises
+  artisanales dont la production est le résultat d'un travail essentiellement manuel ; les
+  établissements privés d'enseignement ou de formation professionnelle ; les sociétés sportives ;
+  les promoteurs immobiliers personnes morales réalisant, dans le cadre d'une convention conclue
+  avec l'Etat, des opérations de construction de cités, résidences et campus universitaires
+  d'au moins 50 chambres (2 lits par chambre).
+
+Taux et montants de l'impôt forfaitaire
+- 8% du montant HT des marchés : les sociétés étrangères adjudicataires de marchés de travaux de
+  construction ou de montage, exerçant une activité au Maroc, peuvent être soumises, sur option,
+  à l'IS au taux forfaitaire de 8% du montant hors TVA desdits marchés. Il est libératoire de la
+  retenue à la source sur les produits bruts perçus par les sociétés étrangères et de l'impôt
+  retenu à la source au titre des produits des actions, parts sociales et revenus assimilés.
+- la contre-valeur en dirhams de 25 000 dollars US par an sur option libératoire de tous autres
+  impôts et taxes frappant les bénéfices ou les revenus pour les banques offshore.
+- la contre-valeur en dirhams de 500 dollars US par an libératoire de tous autres impôts et
+  taxes frappant les bénéfices ou les revenus, pour les sociétés holding offshore.
+
+Taux de l'impôt retenu à la source
+- 10% du montant des produits bruts HT perçus par les personnes physiques ou morales non
+  résidentes.
+- 20% du montant HT des produits de placements à revenu fixe.
+- 15% du montant des produits des actions, parts sociales et revenus assimilés.

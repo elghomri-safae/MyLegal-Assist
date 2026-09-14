@@ -1,0 +1,21 @@
+{
+  "forme_juridique": "SARL AU",
+  "capital_social": 50000,
+  "siege_social": "8 rue Ibn Sina, Fes (contrat de domiciliation)",
+  "statuts_fournis": true,
+  "certificat_negatif_fourni": false,
+  "certificat_negatif_date_delivrance": null,
+  "attestation_blocage_bancaire_fournie": false,
+  "taxe_professionnelle_declaree": true,
+  "emploie_salaries": false,
+  "affiliation_cnss_fournie": false,
+  "identites": [
+    {
+      "nom": "Idrissi",
+      "prenom": "Karim",
+      "numero_cin": "CD333333",
+      "date_naissance": "1992-11-30"
+    }
+  ],
+  "pieces": []
+}

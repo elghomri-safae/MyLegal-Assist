@@ -1,0 +1,14 @@
+{
+  "forme_juridique": "SARL",
+  "capital_social": 50000,
+  "siege_social": "",
+  "statuts_fournis": false,
+  "certificat_negatif_fourni": false,
+  "certificat_negatif_date_delivrance": null,
+  "attestation_blocage_bancaire_fournie": false,
+  "taxe_professionnelle_declaree": false,
+  "emploie_salaries": false,
+  "affiliation_cnss_fournie": false,
+  "identites": [],
+  "pieces": []
+}
